@@ -56,7 +56,7 @@ int main()
 {
     int choice_1;
     printf("\n          :----***MENSURATION***----:\n");
-    printf("  ~^~^~^~^Choose Your Preffered Otion^~^~^~^~\n\n");
+    printf("  ~^~^~^~^Choose Your Preffered Option^~^~^~^~\n\n");
     printf("        ______________________________________\n");
     printf("        |     Choose 1: CIRCLE MENU.         |\n");
     printf("        |     Choose 2: TRIANGLE MENU.       |\n");
@@ -73,7 +73,7 @@ int main()
     printf("                                    |______________________________________|\n");
     
      printf("          :----*** ID CARD ***----:\n");
-    printf("  ~^~^~^~^Choose Your Preffered Otion^~^~^~^~\n\n");
+     printf("  ~^~^~^~^Choose Your Preffered Option^~^~^~^~\n\n");
     printf("        __________________________________\n");
     printf("        |   Choose 8:  STUDENT ID CARD.   |\n");
     printf("        |_________________________________|\n\n");
