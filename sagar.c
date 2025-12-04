@@ -6,8 +6,7 @@ void roc();
 void coc();
 void doc();
 void exit();
-void def();
-
+void def();
 void aot();
 void pot();
 void aorat();
