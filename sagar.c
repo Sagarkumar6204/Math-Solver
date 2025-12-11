@@ -9,7 +9,7 @@ void exit();
 void def();
 void aot();
 void pot();
-void aorat();
+void aorat(); 
 void aoet();
 void def_t();
 void exitt();
