@@ -5,7 +5,7 @@ void aoc();
 void roc();
 void coc();
 void doc();
-void exit();
+void exit(); 
 void def();
 void aot();
 void pot();
