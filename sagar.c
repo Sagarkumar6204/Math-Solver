@@ -2,7 +2,7 @@
 #include <conio.h>
 #include<math.h>
 void aoc();
-void roc();
+void roc(); 
 void coc();
 void doc();
 void exit(); 
