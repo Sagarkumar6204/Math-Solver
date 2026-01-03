@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <conio.h>
 #include<math.h>
-void aoc();
+void aoc();   
 void roc(); 
 void coc();
 void doc();
