@@ -7,7 +7,7 @@ void coc();
 void doc();
 void exit(); 
 void def();
-void aot();
+void aot(); 
 void pot();
 void aorat(); 
 void aoet();
