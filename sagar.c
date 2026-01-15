@@ -13,7 +13,7 @@ void aorat();
 void aoet();
 void def_t();
 void exitt();
-
+ 
 void aor();
 void dor();
 void por();
